@@ -1,0 +1,20 @@
+Sorry!
+Starting the game:
+	Press 'Start'
+	Select the number of players
+	Select your color
+Game Objective:
+	Get all four of your pawns home
+	Land on or slide over opponent pawns
+Playing the game:
+	Draw a card
+	Select a square that is valid
+	Select the square to move to
+Special Cards:
+	One/Two - Move out of start
+	Two - Move 2 and draw again
+	Four - Move backward 4
+	Seven - Split move between 2 pawns
+	Ten - Move back 1 or 10 forward
+	Eleven - Swap positions or move 11 forward
+	Sorry! - Swap positions from a pawn at start
